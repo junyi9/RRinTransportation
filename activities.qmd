@@ -1,0 +1,39 @@
+---
+title: "Activities"
+---
+
+## Current activities
+
+-   We are currently organizing a tutorial at [ITSC2024](https://ieee-itsc.org/2024/), with the following objectives:
+
+    \(1\) An introduction to the fundamental concepts and importance of RR to the domain of ITS
+
+    \(2\) Provide hands-on training in the use of tools and software that facilitate reproducibility
+
+    \(3\) Guide researchers on how to properly document and organize data and project outcomes to foster open science
+
+    \(4\) Encourage collaboration among tutorial participants to foster a community that values and practices reproducible research
+
+    This tutorial is co-organized by Cathy Wu (Associate Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). **More information about this tutorial can be found at its dedicated webpage [here](https://rrintransportation.github.io/itsc24-rr-tutorial/)**.
+
+-   We are planning to guest-edit a topical collection on “Reproducible Research in Transportation” for [European Transport Research Review (ETRR)](https://etrr.springeropen.com/), which is a peer-reviewed open access journal publishing original high-quality scholarly research and developments in areas related to transportation science, technologies, policy and practice. **A call for papers will be released soon**. Please stay tuned.
+
+## Past activities
+
+-   We organized a workshop "Reproducible Research (RR) – Why, What, and How" sponsored by eight committees (ACP50, A0020C, AED10, AED50, ED60, AEP40, AEP50, AJE45), at TRB2024.More detail of this workshop can be found [here](http://www.connectedandautonomoustransport.com/uploads/2/5/2/6/25268286/acp50-reproducible-research.pdf).
+
+    ![(credit: Xuesong Zhou)](images/mmexport1718014071196.jpg)
+
+    ![(credit: Junyi Ji)](images/Yes_3455.JPG)
+
+    ![(credit: Junyi Ji)](images/Yes_3406.JPG)
+
+    ![(credit: Junyi Ji)](images/Yes_3402.JPG)
+
+    ![(credit: Junyi Ji)](images/Yes_3420.JPG)
+
+    ![(credit: Junyi Ji)](images/Yes_3424.JPG)
+
+    ![(credit: Junyi Ji)](images/Yes_3434.JPG)
+
+-   We organized a Call for Papers "Towards Reproducible Transportation Research" at TRB 2023, sponsored by ACP50: Traffic Flow Theory and Characteristics (primary sponsoring committee) and AEP40: Transportation Network Modeling Committee. More details of this event can be found [here](http://www.connectedandautonomoustransport.com/uploads/2/5/2/6/25268286/call_for_paper_reproducible_research_in_transportation_research_final.pdf). As a result, a Lectern Session at TRB2023 was dedicated to Reproducible Transportation Research.
