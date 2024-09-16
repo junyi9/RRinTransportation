@@ -1,9 +1,0 @@
----
-title: "RERITE - REproducible Research In Transportation Engineering"
----
-
-![](images/logo.png){fig-align="center"}
-
-This is the website of the **RE-RITE** Working Group - **REproducible Research In Transportation Engineering**.
-
-We are a group of volunteers who are passionate about practicing and promoting reproducible research in Transport Engineering.
