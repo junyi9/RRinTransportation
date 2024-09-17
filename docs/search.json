@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RERITE - REproducible Research In Transportation Engineering",
+    "section": "",
+    "text": "This is the website of the RE-RITE Working Group - REproducible Research In Transportation Engineering.\nWe are a group of volunteers who are passionate about practicing and promoting reproducible research in Transport Engineering."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "List of the current members of the working group (alphabetically ordered):\n\nAndreas Leich, German Aerospace Center (DLR), Email address: andreas.leich at dlr.de;\nBidisha Ghosh, Trinity College Dublin, Email address: bghosh at tcd.ie;\nCaroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras at ectri.org;\nCathy Wu, Massachusetts Institute of Technology (MIT), Email address: cathywu at mit.edu;\nChristine Buisson, Université Gustave Eiffel, Email address: Chrchristine.buisson at univ-eiffel.fr;\nDanjue Chen, North Carolina State University, Email address: dchen33 at ncsu.edu;\nElizabeth Sall, UrbanLabs LLC, Email: easall at gmail.com;\nIrene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria at tudelft.nl;\nJiwon Kim, University of Queensland, Email address: jiwon.kim at uq.edu.au;\nKendra Levine, UC Berkeley, Email address : kklevine at berkeley.edu;\nLiming Wang, Portland State University, Email address:limwang at pdx.edu;\nMarcello Montanino, University of Naples Federico II, Email address: marcello.montanino at unina.it;\nNicolas Saunier, Polytechnique Montréal, Email address: nicolas.saunier at polymtl.ca;\nPeggi Knight, Iowa Department of Transportation, Email: peggi.knight at iowadot.us;\nPeter Wagner, German Aerospace Center (DLR), Email address: peter.wagner at dlr.de;\nShimul (Md. Mazharul) Haque, Queensland University of Technology, Email address: m1.haque at qut.edu.au;\nSilvia Francesca Varotto, École Nationale des Travaux Publics de l’État, Email address: SilviaFrancesca.Varotto at entpe.fr;\nVincenzo Punzo, University of Naples Federico II, Email address: vinpunzo at unina.it;\nXuesong Zhou, Arizona State University, Email address: xuesong.zhou at asu.edu;\nYinhai Wang, University of Washington, Email address: yinhai at uw.edu;\nZuduo Zheng, University of Queensland, Email address: zuduo.zheng at uq.edu;"
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "We are currently organizing a tutorial at ITSC2024, with the following objectives:\n(1) An introduction to the fundamental concepts and importance of RR to the domain of ITS\n(2) Provide hands-on training in the use of tools and software that facilitate reproducibility\n(3) Guide researchers on how to properly document and organize data and project outcomes to foster open science\n(4) Encourage collaboration among tutorial participants to foster a community that values and practices reproducible research\nThis tutorial is co-organized by Cathy Wu (Associate Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). More information about this tutorial can be found at its dedicated webpage here.\nWe are guest-editing a topical collection on “Reproducible Research in Transportation” for European Transport Research Review (ETRR), which is a peer-reviewed open access journal publishing original high-quality scholarly research and developments in areas related to transportation science, technologies, policy and practice. A call for papers has been released."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "getinvolved.html",
+    "href": "getinvolved.html",
+    "title": "Get involved",
+    "section": "",
+    "text": "We always welcome new members to join the working group and contribute to the mission of promoting reproducible research in the transportation research community.\nTo express your interest, please contact Zuduo Zheng at zuduo.zheng at uq.edu.au, or Christine Buisson at christine.buisson at univ-eiffel.fr."
+  },
+  {
+    "objectID": "activities.html#past-activities",
+    "href": "activities.html#past-activities",
+    "title": "Activities",
+    "section": "Past activities",
+    "text": "Past activities\n\nWe organized a workshop “Reproducible Research (RR) – Why, What, and How” sponsored by eight committees (ACP50, A0020C, AED10, AED50, ED60, AEP40, AEP50, AJE45), at TRB2024.More detail of this workshop can be found here.\n\n\n\n(credit: Xuesong Zhou)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\n\n\n\n(credit: Junyi Ji)\n\n\nWe organized a Call for Papers “Towards Reproducible Transportation Research” at TRB 2023, sponsored by ACP50: Traffic Flow Theory and Characteristics (primary sponsoring committee) and AEP40: Transportation Network Modeling Committee. More details of this event can be found here. As a result, a Lectern Session at TRB2023 was dedicated to Reproducible Transportation Research."
+  },
+  {
+    "objectID": "activities.html#current-activities",
+    "href": "activities.html#current-activities",
+    "title": "Activities",
+    "section": "",
+    "text": "We are currently organizing a tutorial at ITSC2024, with the following objectives:\n(1) An introduction to the fundamental concepts and importance of RR to the domain of ITS\n(2) Provide hands-on training in the use of tools and software that facilitate reproducibility\n(3) Guide researchers on how to properly document and organize data and project outcomes to foster open science\n(4) Encourage collaboration among tutorial participants to foster a community that values and practices reproducible research\nThis tutorial is co-organized by Cathy Wu (Associate Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). More information about this tutorial can be found at its dedicated webpage here.\nWe are guest-editing a topical collection on “Reproducible Research in Transportation” for European Transport Research Review (ETRR), which is a peer-reviewed open access journal publishing original high-quality scholarly research and developments in areas related to transportation science, technologies, policy and practice. A call for papers has been released."
+  }
+]
